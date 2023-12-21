@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "goit-web-homework-4"
+version = "0.1.0"
+description = ""
+authors = ["Vasyl Boliukh <89039235+Vskesha@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
